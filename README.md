@@ -94,7 +94,7 @@ The project answers the following business questions:
 ## 📁 Project Files
 
 - `E_Learning_Platform_Analysis.sql` – Complete MySQL queries
-- `E_Learning_Platform_One_Page_Summary.docx` – Project summary report
+- `E_Learning_Platform_One_Page_Summary.pdf` – Project summary report
 - `README.md` – Project documentation
 
 ## ✅ Conclusion
